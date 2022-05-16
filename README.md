@@ -1,5 +1,8 @@
 # echat-first
 
+## 开始
+1. 生成html文件 `python 1.py`
+2. 用浏览器手动打开data文件夹下的 `1.html`
 
 ## 引用
 
